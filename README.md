@@ -1,3 +1,8 @@
+![KAIO](https://github.com/user-attachments/assets/e34d6ad4-3e01-458a-84e5-0259ee7e097d)
+
+
+https://github.com/user-attachments/assets/69d6e018-a4e7-47ac-ab10-33069baa8f17
+
 # 🖼️ Removedor de Fundo de Imagens
 
 Este projeto é uma ferramenta simples para remover o fundo de imagens automaticamente, utilizando inteligência artificial. Ideal para gerar imagens com fundo transparente de forma rápida e precisa.
